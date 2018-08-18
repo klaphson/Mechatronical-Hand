@@ -5,7 +5,7 @@ template <class t1> t1 dodawanie(t1 a, t1 b);
 
 int main()
 {
-	cout << dodawanie<double>(7.9898, 9);
+	cout << dodawanie<double>(7.9898, 93) << endl;
 	system("pause");
 }
 
